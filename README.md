@@ -1,4 +1,4 @@
-# Learning is a cointinuous journey :running: 👋
+# Learning is a continuous journey :running: 👋
 
 <!--
 **EslamAref75/EslamAref75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
